@@ -3,7 +3,8 @@ import { sidebar, nav } from './relaConf';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: '/vitepress-demo-mondaylab/',
+  base: '/vitepress-demo-mondaylab/',
+  title: 'mondaylab-demo-blog',
   description: 'A VitePress Site',
 
   // 配置markdown写作风格
