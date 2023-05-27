@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,N as o}from"./chunks/framework.35e562b8.js";const p=JSON.parse('{"title":"数据结构与算法","description":"","frontmatter":{},"headers":[],"relativePath":"column/Algorithm/index.md"}'),r={name:"column/Algorithm/index.md"},l=o("",13),i=[l];function n(h,c,d,s,_,b){return e(),t("div",null,i)}const m=a(r,[["render",n]]);export{p as __pageData,m as default};
