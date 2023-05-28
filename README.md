@@ -1,8 +1,9 @@
 
 # 这是什么？
 
-仓库名：vitepress-demo-mondaylab
-用途：vitepress开箱即用demo
+- 仓库名：vitepress-demo-mondaylab
+
+- 用途：vitepress开箱即用demo
 
 # 如何运行？
 
@@ -15,4 +16,4 @@
 
 # 具体搭建步骤？
 
-- balabala…
+[vitepress从0到1，让每个前后端小伙伴都拥有一个属于自己的博客](https://github.com/Jacqueline712/mondaylab-blog/blob/master/docs/column/FrontEnd/VUE/009_vitepress_blog.md)
